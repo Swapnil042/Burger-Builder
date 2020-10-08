@@ -13,6 +13,7 @@ const modal = (props) => (
                 opacity: props.show ? '1':'0'
             }}>
             {props.children}
+            
         </div>
     </Aux>
 );
