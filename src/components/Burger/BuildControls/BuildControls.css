@@ -1,14 +1,13 @@
-.BuildControls{
+.BuildControls {
     width: 100%;
     background-color: #CF8F2E;
     display: flex;
-    flex-flow:column;
+    flex-flow: column;
     align-items: center;
     box-shadow: 0 2px 1px #ccc;
-    margin: 10px auto;
-    
+    margin: auto;
+    padding: 10px 0;
 }
-
 
 .OrderButton {
     background-color: #DAD735;
@@ -19,7 +18,6 @@
     font-family: inherit;
     font-size: 1.2em;
     padding: 15px 30px;
-    margin: 5px;
     box-shadow: 2px 2px 2px #966909;
 }
 
